@@ -26,6 +26,20 @@
         android:textSize="20sp"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toTopOf="@id/signInButton"
+        app:layout_constraintTop_toBottomOf="@id/googletext"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"/>
+
+    <TextView
+        android:id="@+id/googletext"
+        android:layout_width="wrap_content"
+        android:layout_margin="16dp"
+        android:text="@string/google_sign_in"
+        android:padding="20dp"
+        android:background="@color/teal_200"
+        android:textSize="20sp"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toTopOf="@id/textview"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"/>
