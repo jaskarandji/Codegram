@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Codegram</string>
     <string name="sign_in_with_your_google_account">Sign in with your google account!</string>
+    <string name="google_sign_in">GOOGLE SIGN IN</string>
 </resources>
