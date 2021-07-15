@@ -15,11 +15,11 @@ An Open-Source Android Social Media & Coding Resources Application for Computer 
 ## Features
 
 - Profile Pages
-- Sign In & Sign Out Pages
-- Log In & Log Out Pages
-- Coding Resources Pages
+- Sign In & Sign Out Page
+- Log In & Log Out Page
+- Coding Resources Page
 - Coding Resources Search Button
-- Coding Resources via Intrest
+- Coding Resources via Interest
 - Custom Photo Feed
 - Post Photos from Camera or Gallery
 - React on Posts
@@ -33,7 +33,7 @@ An Open-Source Android Social Media & Coding Resources Application for Computer 
 - Change Image View from Grid Layout to Feed Layout
 - Notifications Feed Showing Recent Likes & Comments of your Posts
 - Notifications Feed Showing New Followers
-- Swipe to delete notification
+- Swipe to Delete Notification
 - Dark Mode Support
 
 ## Running Tests
