@@ -54,7 +54,7 @@ Set up the Firebase
 - Follow the instructions at https://console.firebase.google.com.
 - Once your Firebase instance is created, you'll need to enable Google authentication.
 - Go to the Firebase Console for your new instance.
-- Create an app within your Firebase instance for Android, with package name com.yourcompany.codegram for testing.
+- Create an app within your Firebase instance for Android, with package name com.example.codegram for testing.
 
 ## Contributing
 
