@@ -2,6 +2,9 @@
 
 An Open-Source Android Social Media & Coding Resources Application for Computer Science Students.
 
+
+![Logo](https://raw.githubusercontent.com/satyamsharma17/Codegram/master/codegram.png)
+
 ## Authors
 
 - [@satyamsharma17](https://www.github.com/satyamsharma17)
