@@ -64,7 +64,7 @@ Set up the Firebase
 Contributions are always welcome!
 
 - You just have to build the features which are mentioned above.
-- You can Suggest some more features for creating this project more useful.
+- You can suggest some more features for creating this project more useful on @seaofcode17@gmail.com.
   
 ## Managed By
 
