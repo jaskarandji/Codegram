@@ -1,6 +1,6 @@
 # Codegram
 
-An Open-Source Android Social Media & Coding Resources Application for Computer Science Students.
+An Open-Source Android Social Media App for developers.
 
 
 ![Logo](https://raw.githubusercontent.com/satyamsharma17/Codegram/master/codegram.png)
