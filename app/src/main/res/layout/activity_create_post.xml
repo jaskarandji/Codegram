@@ -4,7 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".CreatePostActivity">
+    tools:context=".CreatePostActivity"
+    >
 
     <EditText
         android:id="@+id/postInput"
@@ -12,13 +13,26 @@
         android:layout_height="200dp"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/logo"
         android:hint="@string/what_do_you_want_to_talk_about"
         android:gravity="top"
         android:layout_marginTop="16dp"
         android:layout_margin="13dp"
         android:padding="16dp"
         android:background="@drawable/edittext_round_shape"/>
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_marginTop="15dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toTopOf="@+id/postInput"
+        android:src="@mipmap/ic_launcher_round"
+        android:foregroundGravity="center"
+        />
+
 
     <Button
         android:layout_width="0dp"
@@ -29,7 +43,8 @@
         app:layout_constraintTop_toBottomOf="@id/postInput"
         android:layout_margin="15dp"
         android:text="@string/post"
-
-        android:background="@drawable/edittext_round_shape"/>
+        android:textSize="17dp"
+        android:backgroundTint="#5B55FF"
+        />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
